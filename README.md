@@ -48,3 +48,8 @@ export default tseslint.config({
   },
 })
 ```
+
+
+https://github.com/crashmax-dev/fireworks-js
+https://www.npmjs.com/package/react-confetti
+https://www.npmjs.com/package/react-confetti-explosion
